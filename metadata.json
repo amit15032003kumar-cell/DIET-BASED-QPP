@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack",
+  "description": "Comprehensive diet & meal logging app with personalized macro tracking, wearable sync, nutrition database, weekly reports, and meal plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

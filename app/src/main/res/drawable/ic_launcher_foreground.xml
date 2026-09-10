@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (between 21 and 87) -->
+    <!-- Healthy Salad / Nutrition Bowl base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,54 C32,68 42,78 54,78 C66,78 76,68 76,54 L32,54 Z" />
+    
+    <!-- Bowl pedestal / base rim -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M44,78 L64,78 L61,81 L47,81 Z" />
+
+    <!-- Nutrition Salad Leaves / Sprout sprouting upwards -->
+    <!-- Left Leaf -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M54,52 C54,40 40,32 37,34 C35,46 45,52 54,52 Z" />
+    
+    <!-- Right Leaf -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,52 C54,38 68,30 71,32 C73,44 63,52 54,52 Z" />
+
+    <!-- Center Sprout Stem & Leaf Bud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,52 C52,43 53,36 54,27 C55,36 56,43 55,52 Z" />
+
+    <!-- Radiant Nutrition Sparkle Accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,22 L56,25 L59,26 L56,27 L54,30 L52,27 L49,26 L52,25 Z" />
+</vector>
